@@ -181,7 +181,9 @@ namespace LimeriCardsSharp.Controllers
             return _deck.GetCardBackImage(cardBackName);
         }
     }
-} namespace LimeriCardsSharp.Controllers
+}
+
+namespace LimeriCardsSharp.Controllers
 {
     public class DeckController
     {
