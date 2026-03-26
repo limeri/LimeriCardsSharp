@@ -1,0 +1,11 @@
+# LimeriCardsSharp
+This is a C# MAUI project for Limeri Cards, a card game app.
+
+## Features
+- Multi-platform support
+- Simple and intuitive UI
+
+## How to Run
+1. Clone the repository.
+2. Open the solution file in Visual Studio.
+3. Run the project in your desired platform.
