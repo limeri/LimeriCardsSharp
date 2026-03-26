@@ -90,7 +90,9 @@ namespace LimeriCardsSharp.Models
             _logger.LogDebug($"Cleared hand for player: {Name}");
         }
     }
-} namespace LimeriCardsSharp.Models
+}
+
+namespace LimeriCardsSharp.Models
 {
     public class PlayerModel
     {
