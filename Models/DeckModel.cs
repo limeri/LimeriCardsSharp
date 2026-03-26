@@ -98,7 +98,9 @@ namespace LimeriCardsSharp.Models
             return $"images/playing_cards_{cardBackName}/back.png";
         }
     }
-} namespace LimeriCardsSharp.Models
+}
+
+namespace LimeriCardsSharp.Models
 {
     public class DeckModel
     {
