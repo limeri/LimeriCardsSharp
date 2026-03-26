@@ -64,11 +64,3 @@ namespace LimeriCardsSharp.Controllers
         }
     }
 }
-
-namespace LimeriCardsSharp.Controllers
-{
-    public class ViewFactory
-    {
-        // Methods to create views
-    }
-}
